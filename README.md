@@ -1,6 +1,6 @@
-# Dataloop.AI Assessment Test
+# Assessment Test
 
-This repository contains the solution for the Dataloop.AI assessment test. The test involves building a Pythonic data model class called `Data` with specific requirements.
+This repository contains the solution for the assessment test. The test involves building a Pythonic data model class called `Data` with specific requirements.
 
 
 ## Usage
